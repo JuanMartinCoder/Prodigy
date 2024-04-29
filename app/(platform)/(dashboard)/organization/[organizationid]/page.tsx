@@ -6,7 +6,7 @@ const OrganizationidPage = () => {
 
     return (
         <div>
-            XD
+            Contenido
         </div>
     );
 }
